@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Archive Box / Folder Base -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M32,36 L48,36 L54,42 L76,42 C78.2,42 80,43.8 80,46 L80,74 C80,76.2 78.2,78 76,78 L32,78 C29.8,78 28,76.2 28,74 L28,40 C28,37.8 29.8,36 32,36 Z" />
+    <!-- Folder Tab & Interior -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M32,44 L76,44 L76,74 L32,74 Z" />
+    <!-- Document 1 (Back Sheet) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M38,30 L64,30 L72,38 L72,62 L38,62 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M64,30 L64,38 L72,38 Z" />
+    <!-- Document Lines on Back Sheet -->
+    <path
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M43,42 L58,42 M43,47 L66,47 M43,52 L62,52" />
+    <!-- Front Folder Flap -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M26,50 L46,50 L52,56 L82,56 C84.2,56 86,57.8 86,60 L86,76 C86,78.2 84.2,80 82,80 L26,80 C23.8,80 22,78.2 22,76 L22,54 C22,51.8 23.8,50 26,50 Z" />
+    <!-- Gold Trim / Accent Line -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M24,56 L45,56 L51,62 L84,62" />
+    <!-- Official Wax Seal / Star Emblem in Center -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,64 A6,6 0 1,0 54,76 A6,6 0 1,0 54,64 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M54,66 L55.5,69 L59,69.5 L56.5,72 L57,75.5 L54,74 L51,75.5 L51.5,72 L49,69.5 L52.5,69 Z" />
+</vector>

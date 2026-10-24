@@ -1,0 +1,6 @@
+{
+  "name": "الأرشيف الإداري",
+  "description": "تطبيق متكامل لأرشفة ومتابعة وتتبع المراسلات الإدارية والوثائق الرسمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
